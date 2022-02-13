@@ -1,0 +1,22 @@
+{
+  "name": "exposicao-paulo-freire-fato-ou-fake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcker/exposicao-paulo-freire-fato-ou-fake.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcker/exposicao-paulo-freire-fato-ou-fake/issues"
+  },
+  "homepage": "https://github.com/marcker/exposicao-paulo-freire-fato-ou-fake#readme",
+  "dependencies": {
+    "markdown-to-html": "^0.0.13"
+  }
+}
